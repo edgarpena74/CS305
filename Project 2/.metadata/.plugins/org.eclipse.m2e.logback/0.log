@@ -1,0 +1,429 @@
+2025-06-27 20:54:10,017 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2025-06-27 20:54:29,385 [Worker-16: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.snhu:ssl-server:0.0.1-SNAPSHOT @ /Users/edgarpena/Documents/SNHU/CS-305/Module 7/Project 2/ssl-server_student/pom.xml.
+2025-06-27 20:54:29,712 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-27 20:54:29,713 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2025-06-27 20:54:29,717 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-06-27 20:54:29,718 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-27 20:54:29,718 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/edgarpena/Documents/SNHU/CS-305/Module 7/Project 2/ssl-server_student/src/test/resources
+2025-06-27 20:54:30,800 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-27 20:54:30,801 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2025-06-27 20:54:30,802 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-06-27 20:54:30,803 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-27 20:54:30,803 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/edgarpena/Documents/SNHU/CS-305/Module 7/Project 2/ssl-server_student/src/test/resources
+2025-06-27 21:46:15,144 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-27 21:46:15,145 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2025-06-27 21:46:15,145 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-06-27 21:46:15,147 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-27 21:46:15,147 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/edgarpena/Documents/SNHU/CS-305/Module 7/Project 2/ssl-server_student/src/test/resources
+2025-06-27 21:48:29,675 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-27 21:48:29,675 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2025-06-27 21:48:29,676 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-06-27 21:48:29,676 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-27 21:48:29,677 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/edgarpena/Documents/SNHU/CS-305/Module 7/Project 2/ssl-server_student/src/test/resources
+2025-06-27 21:50:32,960 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-27 21:50:32,960 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2025-06-27 21:50:32,961 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-06-27 21:50:32,962 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-27 21:50:32,962 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/edgarpena/Documents/SNHU/CS-305/Module 7/Project 2/ssl-server_student/src/test/resources
+2025-06-27 21:51:13,213 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2025-06-27 21:51:35,423 [Worker-35: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149 [264])
+2025-06-27 21:51:35,425 [Worker-35: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149
+2025-06-27 21:51:35,425 [Worker-35: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/aether-connector-okhttp-0.17.8.jar
+2025-06-27 21:51:35,425 [Worker-35: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/commons-cli-1.4.jar
+2025-06-27 21:51:35,425 [Worker-35: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/commons-io-2.6.jar
+2025-06-27 21:51:35,425 [Worker-35: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/commons-lang3-3.8.1.jar
+2025-06-27 21:51:35,425 [Worker-35: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/guice-4.2.2-no_aop.jar
+2025-06-27 21:51:35,425 [Worker-35: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/jansi-2.4.0.jar
+2025-06-27 21:51:35,425 [Worker-35: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/maven-artifact-3.8.6.jar
+2025-06-27 21:51:35,425 [Worker-35: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/maven-builder-support-3.8.6.jar
+2025-06-27 21:51:35,425 [Worker-35: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/maven-compat-3.8.6.jar
+2025-06-27 21:51:35,425 [Worker-35: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/maven-core-3.8.6.jar
+2025-06-27 21:51:35,425 [Worker-35: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/maven-embedder-3.8.6.jar
+2025-06-27 21:51:35,425 [Worker-35: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/maven-model-3.8.6.jar
+2025-06-27 21:51:35,425 [Worker-35: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/maven-model-builder-3.8.6.jar
+2025-06-27 21:51:35,425 [Worker-35: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/maven-plugin-api-3.8.6.jar
+2025-06-27 21:51:35,425 [Worker-35: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/maven-repository-metadata-3.8.6.jar
+2025-06-27 21:51:35,425 [Worker-35: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/maven-resolver-api-1.6.3.jar
+2025-06-27 21:51:35,426 [Worker-35: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/maven-resolver-connector-basic-1.6.3.jar
+2025-06-27 21:51:35,426 [Worker-35: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/maven-resolver-impl-1.6.3.jar
+2025-06-27 21:51:35,426 [Worker-35: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/maven-resolver-provider-3.8.6.jar
+2025-06-27 21:51:35,426 [Worker-35: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/maven-resolver-spi-1.6.3.jar
+2025-06-27 21:51:35,426 [Worker-35: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/maven-resolver-transport-wagon-1.6.3.jar
+2025-06-27 21:51:35,426 [Worker-35: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/maven-resolver-util-1.6.3.jar
+2025-06-27 21:51:35,426 [Worker-35: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/maven-settings-3.8.6.jar
+2025-06-27 21:51:35,426 [Worker-35: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/maven-settings-builder-3.8.6.jar
+2025-06-27 21:51:35,426 [Worker-35: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/maven-shared-utils-3.3.4.jar
+2025-06-27 21:51:35,426 [Worker-35: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/okhttp-3.14.1.jar
+2025-06-27 21:51:35,426 [Worker-35: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/okio-1.17.3.jar
+2025-06-27 21:51:35,426 [Worker-35: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/org.eclipse.sisu.inject-0.3.5.jar
+2025-06-27 21:51:35,426 [Worker-35: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/org.eclipse.sisu.plexus-0.3.5.jar
+2025-06-27 21:51:35,426 [Worker-35: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/plexus-build-api-0.0.7.jar
+2025-06-27 21:51:35,426 [Worker-35: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/plexus-cipher-2.0.jar
+2025-06-27 21:51:35,426 [Worker-35: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/plexus-classworlds-2.6.0.jar
+2025-06-27 21:51:35,426 [Worker-35: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/plexus-component-annotations-2.1.0.jar
+2025-06-27 21:51:35,426 [Worker-35: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/plexus-interpolation-1.26.jar
+2025-06-27 21:51:35,426 [Worker-35: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/plexus-sec-dispatcher-2.0.jar
+2025-06-27 21:51:35,426 [Worker-35: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/plexus-utils-3.3.1.jar
+2025-06-27 21:51:35,426 [Worker-35: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/wagon-file-3.5.1.jar
+2025-06-27 21:51:35,426 [Worker-35: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/wagon-provider-api-3.5.1.jar
+2025-06-27 21:51:35,427 [Worker-35: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava_30.1.0.v20221112-0806 [8])
+2025-06-27 21:51:35,428 [Worker-35: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/com.google.guava_30.1.0.v20221112-0806.jar
+2025-06-27 21:51:35,428 [Worker-35: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=slf4j.api_1.7.36 [427])
+2025-06-27 21:51:35,429 [Worker-35: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/slf4j.api_1.7.36.jar
+2025-06-27 21:51:35,429 [Worker-35: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.inject_1.0.0.v20220405-0441 [18])
+2025-06-27 21:51:35,429 [Worker-35: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/javax.inject_1.0.0.v20220405-0441.jar
+2025-06-27 21:51:35,429 [Worker-35: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.annotation_1.3.5.v20221112-0806 [16])
+2025-06-27 21:51:35,430 [Worker-35: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/javax.annotation_1.3.5.v20221112-0806.jar
+2025-06-27 21:51:35,431 [Worker-35: Launching ssl-server_student] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "/Users/edgarpena/Documents/SNHU/CS-305/Module 7/Project 2/ssl-server_student":
+2025-06-27 21:51:35,433 [Worker-35: Launching ssl-server_student] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always clean install
+2025-06-27 21:56:53,273 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-27 21:56:53,277 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2025-06-27 21:56:53,278 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-06-27 21:56:53,279 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-27 21:56:53,279 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/edgarpena/Documents/SNHU/CS-305/Module 7/Project 2/ssl-server_student/src/test/resources
+2025-06-27 21:59:04,891 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-27 21:59:04,891 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-06-27 21:59:04,891 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2025-06-27 21:59:04,896 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-27 21:59:04,896 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/edgarpena/Documents/SNHU/CS-305/Module 7/Project 2/ssl-server_student/src/test/resources
+2025-06-27 21:59:55,232 [Worker-40: Launching ssl-server_student] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "/Users/edgarpena/Documents/SNHU/CS-305/Module 7/Project 2/ssl-server_student":
+2025-06-27 21:59:55,233 [Worker-40: Launching ssl-server_student] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always clean install
+2025-06-27 22:03:34,336 [Worker-44: Launching ssl-server_student] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "/Users/edgarpena/Documents/SNHU/CS-305/Module 7/Project 2/ssl-server_student":
+2025-06-27 22:03:34,337 [Worker-44: Launching ssl-server_student] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always clean spring-boot:run
+2025-06-27 22:04:22,191 [Worker-3: Launching ssl-server_student] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "/Users/edgarpena/Documents/SNHU/CS-305/Module 7/Project 2/ssl-server_student":
+2025-06-27 22:04:22,191 [Worker-3: Launching ssl-server_student] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dmaven.test.skip=true -DskipTests -Dstyle.color=always clean install
+2025-06-27 22:10:59,572 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-27 22:10:59,573 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2025-06-27 22:10:59,574 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-06-27 22:10:59,576 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-27 22:10:59,577 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/edgarpena/Documents/SNHU/CS-305/Module 7/Project 2/ssl-server_student/src/test/resources
+2025-06-27 22:11:08,591 [Worker-43: Launching ssl-server_student] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "/Users/edgarpena/Documents/SNHU/CS-305/Module 7/Project 2/ssl-server_student":
+2025-06-27 22:11:08,591 [Worker-43: Launching ssl-server_student] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dmaven.test.skip=true -DskipTests -Dstyle.color=always clean install
+2025-06-27 22:11:39,028 [Worker-48: Launching ssl-server_student] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "/Users/edgarpena/Documents/SNHU/CS-305/Module 7/Project 2/ssl-server_student":
+2025-06-27 22:11:39,029 [Worker-48: Launching ssl-server_student] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always clean install
+2025-06-27 22:23:19,645 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-27 22:23:19,646 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2025-06-27 22:23:19,647 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-06-27 22:23:19,648 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-27 22:23:19,648 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/edgarpena/Documents/SNHU/CS-305/Module 7/Project 2/ssl-server_student/src/test/resources
+2025-06-27 22:37:18,057 [Worker-47: Launching ssl-server_student] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "/Users/edgarpena/Documents/SNHU/CS-305/Module 7/Project 2/ssl-server_student":
+2025-06-27 22:37:18,058 [Worker-47: Launching ssl-server_student] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always clean install
+2025-06-27 22:40:36,446 [Worker-57: Launching ssl-server_student] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "/Users/edgarpena/Documents/SNHU/CS-305/Module 7/Project 2/ssl-server_student":
+2025-06-27 22:40:36,447 [Worker-57: Launching ssl-server_student] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dmaven.test.skip=true -DskipTests -Dstyle.color=always clean install
+2025-06-27 22:43:52,921 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2025-06-27 22:43:52,980 [Worker-58: Launching ssl-server_student] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "/Users/edgarpena/Documents/SNHU/CS-305/Module 7/Project 2/ssl-server_student":
+2025-06-27 22:43:52,980 [Worker-58: Launching ssl-server_student] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dmaven.test.skip=true -DskipTests -Dstyle.color=always clean install
+2025-06-27 22:46:26,751 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-27 22:46:26,752 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-06-27 22:46:26,752 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2025-06-27 22:46:26,753 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-27 22:46:26,753 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/edgarpena/Documents/SNHU/CS-305/Module 7/Project 2/ssl-server_student/src/test/resources
+2025-06-27 22:46:33,639 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-27 22:46:33,639 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2025-06-27 22:46:33,640 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2025-06-27 22:46:33,641 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-27 22:46:33,641 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/edgarpena/Documents/SNHU/CS-305/Module 7/Project 2/ssl-server_student/src/test/resources
+2025-06-27 22:46:50,101 [Worker-60: Launching ssl-server_student] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "/Users/edgarpena/Documents/SNHU/CS-305/Module 7/Project 2/ssl-server_student":
+2025-06-27 22:46:50,101 [Worker-60: Launching ssl-server_student] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always clean install
+2025-06-27 22:51:31,739 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2025-06-27 22:56:48,010 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2025-06-27 22:56:48,031 [Worker-35: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149 [264])
+2025-06-27 22:56:48,034 [Worker-35: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149
+2025-06-27 22:56:48,034 [Worker-35: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/aether-connector-okhttp-0.17.8.jar
+2025-06-27 22:56:48,034 [Worker-35: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/commons-cli-1.4.jar
+2025-06-27 22:56:48,034 [Worker-35: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/commons-io-2.6.jar
+2025-06-27 22:56:48,034 [Worker-35: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/commons-lang3-3.8.1.jar
+2025-06-27 22:56:48,034 [Worker-35: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/guice-4.2.2-no_aop.jar
+2025-06-27 22:56:48,034 [Worker-35: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/jansi-2.4.0.jar
+2025-06-27 22:56:48,034 [Worker-35: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/maven-artifact-3.8.6.jar
+2025-06-27 22:56:48,034 [Worker-35: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/maven-builder-support-3.8.6.jar
+2025-06-27 22:56:48,034 [Worker-35: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/maven-compat-3.8.6.jar
+2025-06-27 22:56:48,034 [Worker-35: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/maven-core-3.8.6.jar
+2025-06-27 22:56:48,034 [Worker-35: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/maven-embedder-3.8.6.jar
+2025-06-27 22:56:48,034 [Worker-35: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/maven-model-3.8.6.jar
+2025-06-27 22:56:48,034 [Worker-35: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/maven-model-builder-3.8.6.jar
+2025-06-27 22:56:48,034 [Worker-35: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/maven-plugin-api-3.8.6.jar
+2025-06-27 22:56:48,034 [Worker-35: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/maven-repository-metadata-3.8.6.jar
+2025-06-27 22:56:48,034 [Worker-35: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/maven-resolver-api-1.6.3.jar
+2025-06-27 22:56:48,034 [Worker-35: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/maven-resolver-connector-basic-1.6.3.jar
+2025-06-27 22:56:48,034 [Worker-35: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/maven-resolver-impl-1.6.3.jar
+2025-06-27 22:56:48,034 [Worker-35: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/maven-resolver-provider-3.8.6.jar
+2025-06-27 22:56:48,034 [Worker-35: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/maven-resolver-spi-1.6.3.jar
+2025-06-27 22:56:48,034 [Worker-35: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/maven-resolver-transport-wagon-1.6.3.jar
+2025-06-27 22:56:48,034 [Worker-35: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/maven-resolver-util-1.6.3.jar
+2025-06-27 22:56:48,034 [Worker-35: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/maven-settings-3.8.6.jar
+2025-06-27 22:56:48,034 [Worker-35: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/maven-settings-builder-3.8.6.jar
+2025-06-27 22:56:48,035 [Worker-35: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/maven-shared-utils-3.3.4.jar
+2025-06-27 22:56:48,035 [Worker-35: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/okhttp-3.14.1.jar
+2025-06-27 22:56:48,035 [Worker-35: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/okio-1.17.3.jar
+2025-06-27 22:56:48,035 [Worker-35: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/org.eclipse.sisu.inject-0.3.5.jar
+2025-06-27 22:56:48,035 [Worker-35: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/org.eclipse.sisu.plexus-0.3.5.jar
+2025-06-27 22:56:48,035 [Worker-35: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/plexus-build-api-0.0.7.jar
+2025-06-27 22:56:48,035 [Worker-35: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/plexus-cipher-2.0.jar
+2025-06-27 22:56:48,035 [Worker-35: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/plexus-classworlds-2.6.0.jar
+2025-06-27 22:56:48,035 [Worker-35: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/plexus-component-annotations-2.1.0.jar
+2025-06-27 22:56:48,035 [Worker-35: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/plexus-interpolation-1.26.jar
+2025-06-27 22:56:48,035 [Worker-35: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/plexus-sec-dispatcher-2.0.jar
+2025-06-27 22:56:48,035 [Worker-35: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/plexus-utils-3.3.1.jar
+2025-06-27 22:56:48,035 [Worker-35: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/wagon-file-3.5.1.jar
+2025-06-27 22:56:48,035 [Worker-35: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/wagon-provider-api-3.5.1.jar
+2025-06-27 22:56:48,035 [Worker-35: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava_30.1.0.v20221112-0806 [8])
+2025-06-27 22:56:48,036 [Worker-35: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/com.google.guava_30.1.0.v20221112-0806.jar
+2025-06-27 22:56:48,036 [Worker-35: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=slf4j.api_1.7.36 [427])
+2025-06-27 22:56:48,036 [Worker-35: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/slf4j.api_1.7.36.jar
+2025-06-27 22:56:48,036 [Worker-35: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.inject_1.0.0.v20220405-0441 [18])
+2025-06-27 22:56:48,036 [Worker-35: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/javax.inject_1.0.0.v20220405-0441.jar
+2025-06-27 22:56:48,036 [Worker-35: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.annotation_1.3.5.v20221112-0806 [16])
+2025-06-27 22:56:48,037 [Worker-35: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/javax.annotation_1.3.5.v20221112-0806.jar
+2025-06-27 22:56:48,038 [Worker-35: Launching ssl-server_student] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "/Users/edgarpena/Documents/SNHU/CS-305/Module 7/Project 2/ssl-server_student":
+2025-06-27 22:56:48,039 [Worker-35: Launching ssl-server_student] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always clean install
+2025-06-27 22:57:22,742 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-27 22:57:22,744 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2025-06-27 22:57:22,747 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2025-06-27 22:57:22,749 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-27 22:57:22,749 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/edgarpena/Documents/SNHU/CS-305/Module 7/Project 2/ssl-server_student/src/test/resources
+2025-06-27 22:59:17,307 [Worker-35: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.snhu:ssl-server:0.0.1-SNAPSHOT @ /Users/edgarpena/Documents/SNHU/CS-305/Module 7/Project 2/ssl-server_student/pom.xml.
+2025-06-27 22:59:17,418 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-27 22:59:17,419 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2025-06-27 22:59:17,423 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2025-06-27 22:59:17,424 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-27 22:59:17,424 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/edgarpena/Documents/SNHU/CS-305/Module 7/Project 2/ssl-server_student/src/test/resources
+2025-06-27 22:59:41,557 [Worker-24: Launching ssl-server_student] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "/Users/edgarpena/Documents/SNHU/CS-305/Module 7/Project 2/ssl-server_student":
+2025-06-27 22:59:41,557 [Worker-24: Launching ssl-server_student] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always clean install
+2025-06-27 23:02:19,791 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-27 23:02:19,793 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2025-06-27 23:02:19,795 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-06-27 23:02:19,796 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-27 23:02:19,796 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/edgarpena/Documents/SNHU/CS-305/Module 7/Project 2/ssl-server_student/src/test/resources
+2025-06-27 23:04:55,412 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2025-06-27 23:04:56,160 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-27 23:04:56,162 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2025-06-27 23:04:56,166 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2025-06-27 23:04:56,170 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-27 23:04:56,170 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/edgarpena/Documents/SNHU/CS-305/Module 7/Project 2/ssl-server_student/src/test/resources
+2025-06-27 23:09:47,555 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-27 23:09:47,557 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2025-06-27 23:09:47,558 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2025-06-27 23:09:47,559 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-27 23:09:47,559 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/edgarpena/Documents/SNHU/CS-305/Module 7/Project 2/ssl-server_student/src/test/resources
+2025-06-27 23:12:06,789 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-27 23:12:06,790 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2025-06-27 23:12:06,791 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2025-06-27 23:12:06,792 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-27 23:12:06,792 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/edgarpena/Documents/SNHU/CS-305/Module 7/Project 2/ssl-server_student/src/test/resources
+2025-06-27 23:12:12,360 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-27 23:12:12,360 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-06-27 23:12:12,360 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-06-27 23:12:12,361 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-27 23:12:12,361 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/edgarpena/Documents/SNHU/CS-305/Module 7/Project 2/ssl-server_student/src/test/resources
+2025-06-27 23:15:47,209 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-27 23:15:47,210 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2025-06-27 23:15:47,211 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2025-06-27 23:15:47,211 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-27 23:15:47,211 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/edgarpena/Documents/SNHU/CS-305/Module 7/Project 2/ssl-server_student/src/test/resources
+2025-06-27 23:17:09,988 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-27 23:17:09,988 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2025-06-27 23:17:09,989 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2025-06-27 23:17:09,989 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-27 23:17:09,989 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/edgarpena/Documents/SNHU/CS-305/Module 7/Project 2/ssl-server_student/src/test/resources
+2025-06-27 23:17:24,864 [Worker-43: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149 [264])
+2025-06-27 23:17:24,867 [Worker-43: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149
+2025-06-27 23:17:24,867 [Worker-43: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/aether-connector-okhttp-0.17.8.jar
+2025-06-27 23:17:24,867 [Worker-43: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/commons-cli-1.4.jar
+2025-06-27 23:17:24,867 [Worker-43: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/commons-io-2.6.jar
+2025-06-27 23:17:24,867 [Worker-43: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/commons-lang3-3.8.1.jar
+2025-06-27 23:17:24,867 [Worker-43: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/guice-4.2.2-no_aop.jar
+2025-06-27 23:17:24,867 [Worker-43: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/jansi-2.4.0.jar
+2025-06-27 23:17:24,867 [Worker-43: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/maven-artifact-3.8.6.jar
+2025-06-27 23:17:24,867 [Worker-43: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/maven-builder-support-3.8.6.jar
+2025-06-27 23:17:24,867 [Worker-43: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/maven-compat-3.8.6.jar
+2025-06-27 23:17:24,867 [Worker-43: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/maven-core-3.8.6.jar
+2025-06-27 23:17:24,867 [Worker-43: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/maven-embedder-3.8.6.jar
+2025-06-27 23:17:24,867 [Worker-43: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/maven-model-3.8.6.jar
+2025-06-27 23:17:24,867 [Worker-43: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/maven-model-builder-3.8.6.jar
+2025-06-27 23:17:24,867 [Worker-43: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/maven-plugin-api-3.8.6.jar
+2025-06-27 23:17:24,868 [Worker-43: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/maven-repository-metadata-3.8.6.jar
+2025-06-27 23:17:24,868 [Worker-43: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/maven-resolver-api-1.6.3.jar
+2025-06-27 23:17:24,868 [Worker-43: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/maven-resolver-connector-basic-1.6.3.jar
+2025-06-27 23:17:24,868 [Worker-43: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/maven-resolver-impl-1.6.3.jar
+2025-06-27 23:17:24,868 [Worker-43: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/maven-resolver-provider-3.8.6.jar
+2025-06-27 23:17:24,868 [Worker-43: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/maven-resolver-spi-1.6.3.jar
+2025-06-27 23:17:24,868 [Worker-43: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/maven-resolver-transport-wagon-1.6.3.jar
+2025-06-27 23:17:24,868 [Worker-43: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/maven-resolver-util-1.6.3.jar
+2025-06-27 23:17:24,868 [Worker-43: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/maven-settings-3.8.6.jar
+2025-06-27 23:17:24,868 [Worker-43: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/maven-settings-builder-3.8.6.jar
+2025-06-27 23:17:24,868 [Worker-43: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/maven-shared-utils-3.3.4.jar
+2025-06-27 23:17:24,868 [Worker-43: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/okhttp-3.14.1.jar
+2025-06-27 23:17:24,868 [Worker-43: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/okio-1.17.3.jar
+2025-06-27 23:17:24,868 [Worker-43: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/org.eclipse.sisu.inject-0.3.5.jar
+2025-06-27 23:17:24,868 [Worker-43: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/org.eclipse.sisu.plexus-0.3.5.jar
+2025-06-27 23:17:24,868 [Worker-43: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/plexus-build-api-0.0.7.jar
+2025-06-27 23:17:24,868 [Worker-43: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/plexus-cipher-2.0.jar
+2025-06-27 23:17:24,868 [Worker-43: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/plexus-classworlds-2.6.0.jar
+2025-06-27 23:17:24,868 [Worker-43: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/plexus-component-annotations-2.1.0.jar
+2025-06-27 23:17:24,868 [Worker-43: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/plexus-interpolation-1.26.jar
+2025-06-27 23:17:24,868 [Worker-43: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/plexus-sec-dispatcher-2.0.jar
+2025-06-27 23:17:24,868 [Worker-43: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/plexus-utils-3.3.1.jar
+2025-06-27 23:17:24,868 [Worker-43: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/wagon-file-3.5.1.jar
+2025-06-27 23:17:24,868 [Worker-43: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/wagon-provider-api-3.5.1.jar
+2025-06-27 23:17:24,869 [Worker-43: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava_30.1.0.v20221112-0806 [8])
+2025-06-27 23:17:24,870 [Worker-43: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/com.google.guava_30.1.0.v20221112-0806.jar
+2025-06-27 23:17:24,870 [Worker-43: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=slf4j.api_1.7.36 [427])
+2025-06-27 23:17:24,870 [Worker-43: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/slf4j.api_1.7.36.jar
+2025-06-27 23:17:24,870 [Worker-43: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.inject_1.0.0.v20220405-0441 [18])
+2025-06-27 23:17:24,871 [Worker-43: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/javax.inject_1.0.0.v20220405-0441.jar
+2025-06-27 23:17:24,871 [Worker-43: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.annotation_1.3.5.v20221112-0806 [16])
+2025-06-27 23:17:24,871 [Worker-43: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/javax.annotation_1.3.5.v20221112-0806.jar
+2025-06-27 23:17:24,873 [Worker-43: Launching ssl-server_student] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "/Users/edgarpena/Documents/SNHU/CS-305/Module 7/Project 2/ssl-server_student":
+2025-06-27 23:17:24,873 [Worker-43: Launching ssl-server_student] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always clean install
+2025-06-27 23:19:03,738 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2025-06-27 23:19:03,810 [Worker-42: Launching ssl-server_student] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "/Users/edgarpena/Documents/SNHU/CS-305/Module 7/Project 2/ssl-server_student":
+2025-06-27 23:19:03,810 [Worker-42: Launching ssl-server_student] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always clean install
+2025-06-27 23:21:45,197 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2025-06-27 23:21:45,861 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-27 23:21:45,862 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2025-06-27 23:21:45,866 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2025-06-27 23:21:45,870 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-27 23:21:45,870 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/edgarpena/Documents/SNHU/CS-305/Module 7/Project 2/ssl-server_student/src/test/resources
+2025-06-27 23:28:00,855 [Worker-14: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.snhu:ssl-server:0.0.1-SNAPSHOT @ /Users/edgarpena/Documents/SNHU/CS-305/Module 7/Project 2/ssl-server_student/pom.xml.
+2025-06-27 23:28:01,025 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-27 23:28:01,026 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-06-27 23:28:01,026 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-06-27 23:28:01,027 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-27 23:28:01,027 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/edgarpena/Documents/SNHU/CS-305/Module 7/Project 2/ssl-server_student/src/test/resources
+2025-06-27 23:30:55,446 [Worker-41: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.snhu:ssl-server:0.0.1-SNAPSHOT @ /Users/edgarpena/Documents/SNHU/CS-305/Module 7/Project 2/ssl-server_student/pom.xml.
+2025-06-27 23:30:55,601 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-27 23:30:55,602 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-06-27 23:30:55,602 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-06-27 23:30:55,603 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-27 23:30:55,603 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/edgarpena/Documents/SNHU/CS-305/Module 7/Project 2/ssl-server_student/src/test/resources
+2025-06-27 23:31:34,814 [Worker-44: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149 [264])
+2025-06-27 23:31:34,817 [Worker-44: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149
+2025-06-27 23:31:34,817 [Worker-44: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/aether-connector-okhttp-0.17.8.jar
+2025-06-27 23:31:34,817 [Worker-44: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/commons-cli-1.4.jar
+2025-06-27 23:31:34,817 [Worker-44: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/commons-io-2.6.jar
+2025-06-27 23:31:34,817 [Worker-44: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/commons-lang3-3.8.1.jar
+2025-06-27 23:31:34,817 [Worker-44: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/guice-4.2.2-no_aop.jar
+2025-06-27 23:31:34,817 [Worker-44: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/jansi-2.4.0.jar
+2025-06-27 23:31:34,817 [Worker-44: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/maven-artifact-3.8.6.jar
+2025-06-27 23:31:34,817 [Worker-44: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/maven-builder-support-3.8.6.jar
+2025-06-27 23:31:34,817 [Worker-44: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/maven-compat-3.8.6.jar
+2025-06-27 23:31:34,817 [Worker-44: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/maven-core-3.8.6.jar
+2025-06-27 23:31:34,817 [Worker-44: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/maven-embedder-3.8.6.jar
+2025-06-27 23:31:34,817 [Worker-44: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/maven-model-3.8.6.jar
+2025-06-27 23:31:34,817 [Worker-44: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/maven-model-builder-3.8.6.jar
+2025-06-27 23:31:34,817 [Worker-44: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/maven-plugin-api-3.8.6.jar
+2025-06-27 23:31:34,817 [Worker-44: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/maven-repository-metadata-3.8.6.jar
+2025-06-27 23:31:34,817 [Worker-44: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/maven-resolver-api-1.6.3.jar
+2025-06-27 23:31:34,817 [Worker-44: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/maven-resolver-connector-basic-1.6.3.jar
+2025-06-27 23:31:34,817 [Worker-44: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/maven-resolver-impl-1.6.3.jar
+2025-06-27 23:31:34,817 [Worker-44: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/maven-resolver-provider-3.8.6.jar
+2025-06-27 23:31:34,817 [Worker-44: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/maven-resolver-spi-1.6.3.jar
+2025-06-27 23:31:34,817 [Worker-44: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/maven-resolver-transport-wagon-1.6.3.jar
+2025-06-27 23:31:34,817 [Worker-44: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/maven-resolver-util-1.6.3.jar
+2025-06-27 23:31:34,817 [Worker-44: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/maven-settings-3.8.6.jar
+2025-06-27 23:31:34,817 [Worker-44: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/maven-settings-builder-3.8.6.jar
+2025-06-27 23:31:34,817 [Worker-44: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/maven-shared-utils-3.3.4.jar
+2025-06-27 23:31:34,817 [Worker-44: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/okhttp-3.14.1.jar
+2025-06-27 23:31:34,817 [Worker-44: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/okio-1.17.3.jar
+2025-06-27 23:31:34,817 [Worker-44: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/org.eclipse.sisu.inject-0.3.5.jar
+2025-06-27 23:31:34,817 [Worker-44: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/org.eclipse.sisu.plexus-0.3.5.jar
+2025-06-27 23:31:34,818 [Worker-44: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/plexus-build-api-0.0.7.jar
+2025-06-27 23:31:34,818 [Worker-44: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/plexus-cipher-2.0.jar
+2025-06-27 23:31:34,818 [Worker-44: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/plexus-classworlds-2.6.0.jar
+2025-06-27 23:31:34,818 [Worker-44: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/plexus-component-annotations-2.1.0.jar
+2025-06-27 23:31:34,818 [Worker-44: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/plexus-interpolation-1.26.jar
+2025-06-27 23:31:34,818 [Worker-44: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/plexus-sec-dispatcher-2.0.jar
+2025-06-27 23:31:34,818 [Worker-44: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/plexus-utils-3.3.1.jar
+2025-06-27 23:31:34,818 [Worker-44: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/wagon-file-3.5.1.jar
+2025-06-27 23:31:34,818 [Worker-44: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/wagon-provider-api-3.5.1.jar
+2025-06-27 23:31:34,818 [Worker-44: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava_30.1.0.v20221112-0806 [8])
+2025-06-27 23:31:34,819 [Worker-44: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/com.google.guava_30.1.0.v20221112-0806.jar
+2025-06-27 23:31:34,819 [Worker-44: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=slf4j.api_1.7.36 [427])
+2025-06-27 23:31:34,819 [Worker-44: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/slf4j.api_1.7.36.jar
+2025-06-27 23:31:34,819 [Worker-44: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.inject_1.0.0.v20220405-0441 [18])
+2025-06-27 23:31:34,819 [Worker-44: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/javax.inject_1.0.0.v20220405-0441.jar
+2025-06-27 23:31:34,819 [Worker-44: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.annotation_1.3.5.v20221112-0806 [16])
+2025-06-27 23:31:34,820 [Worker-44: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/javax.annotation_1.3.5.v20221112-0806.jar
+2025-06-27 23:31:34,822 [Worker-44: Launching ssl-server_student] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "/Users/edgarpena/Documents/SNHU/CS-305/Module 7/Project 2/ssl-server_student":
+2025-06-27 23:31:34,822 [Worker-44: Launching ssl-server_student] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always clean install
+2025-06-27 23:32:33,660 [Worker-43: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.snhu:ssl-server:0.0.1-SNAPSHOT @ /Users/edgarpena/Documents/SNHU/CS-305/Module 7/Project 2/ssl-server_student/pom.xml.
+2025-06-27 23:32:33,785 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-27 23:32:33,786 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-06-27 23:32:33,786 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-06-27 23:32:33,788 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-27 23:32:33,791 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/edgarpena/Documents/SNHU/CS-305/Module 7/Project 2/ssl-server_student/src/test/resources
+2025-06-27 23:33:12,161 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-27 23:33:12,161 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-06-27 23:33:12,161 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-06-27 23:33:12,163 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-27 23:33:12,163 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/edgarpena/Documents/SNHU/CS-305/Module 7/Project 2/ssl-server_student/src/test/resources
+2025-06-27 23:33:37,408 [Worker-42: Launching ssl-server_student] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "/Users/edgarpena/Documents/SNHU/CS-305/Module 7/Project 2/ssl-server_student":
+2025-06-27 23:33:37,408 [Worker-42: Launching ssl-server_student] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always clean install
+2025-06-27 23:39:14,874 [Worker-43: Launching ssl-server_student] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "/Users/edgarpena/Documents/SNHU/CS-305/Module 7/Project 2/ssl-server_student":
+2025-06-27 23:39:14,875 [Worker-43: Launching ssl-server_student] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always clean install
+2025-06-28 01:48:07,011 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-28 01:48:07,012 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2025-06-28 01:48:07,017 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2025-06-28 01:48:07,018 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-28 01:48:07,018 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/edgarpena/Documents/SNHU/CS-305/Module 7/Project 2/ssl-server_student/src/test/resources
+2025-06-28 01:50:45,227 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2025-06-28 02:24:53,530 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2025-06-28 02:24:54,271 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-28 02:24:54,273 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2025-06-28 02:24:54,277 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2025-06-28 02:24:54,283 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-28 02:24:54,283 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/edgarpena/Documents/SNHU/CS-305/Module 7/Project 2/ssl-server_student/src/test/resources
+2025-06-28 02:35:38,657 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2025-06-28 02:36:09,053 [Worker-11: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149 [264])
+2025-06-28 02:36:09,057 [Worker-11: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149
+2025-06-28 02:36:09,057 [Worker-11: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/aether-connector-okhttp-0.17.8.jar
+2025-06-28 02:36:09,057 [Worker-11: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/commons-cli-1.4.jar
+2025-06-28 02:36:09,057 [Worker-11: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/commons-io-2.6.jar
+2025-06-28 02:36:09,057 [Worker-11: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/commons-lang3-3.8.1.jar
+2025-06-28 02:36:09,057 [Worker-11: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/guice-4.2.2-no_aop.jar
+2025-06-28 02:36:09,058 [Worker-11: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/jansi-2.4.0.jar
+2025-06-28 02:36:09,058 [Worker-11: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/maven-artifact-3.8.6.jar
+2025-06-28 02:36:09,058 [Worker-11: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/maven-builder-support-3.8.6.jar
+2025-06-28 02:36:09,058 [Worker-11: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/maven-compat-3.8.6.jar
+2025-06-28 02:36:09,058 [Worker-11: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/maven-core-3.8.6.jar
+2025-06-28 02:36:09,058 [Worker-11: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/maven-embedder-3.8.6.jar
+2025-06-28 02:36:09,058 [Worker-11: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/maven-model-3.8.6.jar
+2025-06-28 02:36:09,058 [Worker-11: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/maven-model-builder-3.8.6.jar
+2025-06-28 02:36:09,058 [Worker-11: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/maven-plugin-api-3.8.6.jar
+2025-06-28 02:36:09,058 [Worker-11: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/maven-repository-metadata-3.8.6.jar
+2025-06-28 02:36:09,058 [Worker-11: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/maven-resolver-api-1.6.3.jar
+2025-06-28 02:36:09,058 [Worker-11: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/maven-resolver-connector-basic-1.6.3.jar
+2025-06-28 02:36:09,058 [Worker-11: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/maven-resolver-impl-1.6.3.jar
+2025-06-28 02:36:09,058 [Worker-11: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/maven-resolver-provider-3.8.6.jar
+2025-06-28 02:36:09,058 [Worker-11: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/maven-resolver-spi-1.6.3.jar
+2025-06-28 02:36:09,058 [Worker-11: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/maven-resolver-transport-wagon-1.6.3.jar
+2025-06-28 02:36:09,058 [Worker-11: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/maven-resolver-util-1.6.3.jar
+2025-06-28 02:36:09,058 [Worker-11: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/maven-settings-3.8.6.jar
+2025-06-28 02:36:09,058 [Worker-11: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/maven-settings-builder-3.8.6.jar
+2025-06-28 02:36:09,058 [Worker-11: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/maven-shared-utils-3.3.4.jar
+2025-06-28 02:36:09,058 [Worker-11: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/okhttp-3.14.1.jar
+2025-06-28 02:36:09,058 [Worker-11: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/okio-1.17.3.jar
+2025-06-28 02:36:09,058 [Worker-11: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/org.eclipse.sisu.inject-0.3.5.jar
+2025-06-28 02:36:09,058 [Worker-11: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/org.eclipse.sisu.plexus-0.3.5.jar
+2025-06-28 02:36:09,058 [Worker-11: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/plexus-build-api-0.0.7.jar
+2025-06-28 02:36:09,058 [Worker-11: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/plexus-cipher-2.0.jar
+2025-06-28 02:36:09,058 [Worker-11: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/plexus-classworlds-2.6.0.jar
+2025-06-28 02:36:09,058 [Worker-11: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/plexus-component-annotations-2.1.0.jar
+2025-06-28 02:36:09,058 [Worker-11: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/plexus-interpolation-1.26.jar
+2025-06-28 02:36:09,058 [Worker-11: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/plexus-sec-dispatcher-2.0.jar
+2025-06-28 02:36:09,058 [Worker-11: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/plexus-utils-3.3.1.jar
+2025-06-28 02:36:09,058 [Worker-11: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/wagon-file-3.5.1.jar
+2025-06-28 02:36:09,058 [Worker-11: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/wagon-provider-api-3.5.1.jar
+2025-06-28 02:36:09,059 [Worker-11: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava_30.1.0.v20221112-0806 [8])
+2025-06-28 02:36:09,060 [Worker-11: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/com.google.guava_30.1.0.v20221112-0806.jar
+2025-06-28 02:36:09,060 [Worker-11: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=slf4j.api_1.7.36 [427])
+2025-06-28 02:36:09,061 [Worker-11: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/slf4j.api_1.7.36.jar
+2025-06-28 02:36:09,061 [Worker-11: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.inject_1.0.0.v20220405-0441 [18])
+2025-06-28 02:36:09,061 [Worker-11: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/javax.inject_1.0.0.v20220405-0441.jar
+2025-06-28 02:36:09,061 [Worker-11: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.annotation_1.3.5.v20221112-0806 [16])
+2025-06-28 02:36:09,062 [Worker-11: Launching ssl-server_student] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /Users/edgarpena/.p2/pool/plugins/javax.annotation_1.3.5.v20221112-0806.jar
+2025-06-28 02:36:09,063 [Worker-11: Launching ssl-server_student] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "/Users/edgarpena/Documents/SNHU/CS-305/Module 7/Project 2/ssl-server_student":
+2025-06-28 02:36:09,064 [Worker-11: Launching ssl-server_student] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always clean install
+2025-06-28 02:51:49,135 [Worker-40: Launching ssl-server_student] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "/Users/edgarpena/Documents/SNHU/CS-305/Module 7/Project 2/ssl-server_student":
+2025-06-28 02:51:49,136 [Worker-40: Launching ssl-server_student] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always clean install

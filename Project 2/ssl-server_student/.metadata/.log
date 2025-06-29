@@ -1,0 +1,179 @@
+!SESSION 2025-06-27 20:15:06.504 -----------------------------------------------
+eclipse.buildId=4.26.0.20221201-1200
+java.version=17.0.6
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=macosx, ARCH=aarch64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product -keyring /Users/edgarpena/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch aarch64 -product org.eclipse.epp.package.java.product -keyring /Users/edgarpena/.eclipse_keyring
+
+!ENTRY ch.qos.logback.classic 1 0 2025-06-27 20:15:06.974
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2025-06-27 20:17:08.645
+!MESSAGE Logback config file: /Users/edgarpena/Documents/SNHU/CS-305/Module 7/ssl-server_student/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.1.0.20221015-0744.xml
+
+!ENTRY org.eclipse.jface 2 0 2025-06-27 20:17:09.468
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2025-06-27 20:17:09.468
+!MESSAGE A conflict occurred for COMMAND+SHIFT+T:
+Binding(COMMAND+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.jdt.ui.navigate.open.type"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(COMMAND+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.lsp4e.symbolinworkspace"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2025-06-27 20:17:09.468
+!MESSAGE A conflict occurred for ALT+COMMAND+R:
+Binding(ALT+COMMAND+R,
+	ParameterizedCommand(Command(org.eclipse.ui.edit.rename,Rename,
+		Rename the selected item,
+		Category(org.eclipse.ui.category.file,File,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.ui.edit.rename"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,cocoa,system)
+Binding(ALT+COMMAND+R,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.edit.text.java.rename.element,Rename - Refactoring ,
+		Rename the selected element,
+		Category(org.eclipse.jdt.ui.category.refactoring,Refactor - Java,Java Refactoring Actions,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.jdt.ui.edit.text.java.rename.element"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,cocoa,system)
+
+!ENTRY de.sebthom.eclipse.commons 1 0 2025-06-27 20:17:10.183
+!MESSAGE starting...
+
+!ENTRY de.sebthom.eclipse.previewer 1 0 2025-06-27 20:17:10.183
+!MESSAGE starting...
+
+!ENTRY de.sebthom.eclipse.previewer 1 0 2025-06-27 20:17:10.205
+!MESSAGE Initializing render cache folder [/var/folders/_q/p4ql8wms3q1f7551p8nrlrtw0000gn/T/de.sebthom.eclipse.previewer/render_cache_editors]...
+
+!ENTRY de.sebthom.eclipse.previewer 1 0 2025-06-27 20:17:10.207
+!MESSAGE Initializing render cache folder [/var/folders/_q/p4ql8wms3q1f7551p8nrlrtw0000gn/T/de.sebthom.eclipse.previewer/render_cache_files]...
+
+!ENTRY de.sebthom.eclipse.previewer.drawio 1 0 2025-06-27 20:17:10.239
+!MESSAGE starting...
+
+!ENTRY de.sebthom.eclipse.previewer.graphviz 1 0 2025-06-27 20:17:10.240
+!MESSAGE starting...
+
+!ENTRY de.sebthom.eclipse.previewer.markdown 1 0 2025-06-27 20:17:10.241
+!MESSAGE starting...
+
+!ENTRY de.sebthom.eclipse.previewer.mermaid 1 0 2025-06-27 20:17:10.242
+!MESSAGE starting...
+
+!ENTRY de.sebthom.eclipse.previewer.plantuml 1 0 2025-06-27 20:17:10.243
+!MESSAGE starting...
+
+!ENTRY de.sebthom.eclipse.previewer.drawio 1 0 2025-06-27 20:51:37.836
+!MESSAGE stopping...
+
+!ENTRY de.sebthom.eclipse.previewer.graphviz 1 0 2025-06-27 20:51:37.836
+!MESSAGE stopping...
+
+!ENTRY de.sebthom.eclipse.previewer.markdown 1 0 2025-06-27 20:51:37.836
+!MESSAGE stopping...
+
+!ENTRY de.sebthom.eclipse.previewer.mermaid 1 0 2025-06-27 20:51:37.836
+!MESSAGE stopping...
+
+!ENTRY de.sebthom.eclipse.previewer.plantuml 1 0 2025-06-27 20:51:37.837
+!MESSAGE stopping...
+
+!ENTRY de.sebthom.eclipse.previewer 1 0 2025-06-27 20:51:37.837
+!MESSAGE stopping...
+
+!ENTRY de.sebthom.eclipse.commons 1 0 2025-06-27 20:51:37.837
+!MESSAGE stopping...
+!SESSION 2025-06-27 20:51:56.699 -----------------------------------------------
+eclipse.buildId=4.26.0.20221201-1200
+java.version=17.0.6
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=macosx, ARCH=aarch64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product -keyring /Users/edgarpena/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch aarch64 -product org.eclipse.epp.package.java.product -keyring /Users/edgarpena/.eclipse_keyring
+
+!ENTRY ch.qos.logback.classic 1 0 2025-06-27 20:51:57.120
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2025-06-27 20:52:11.032
+!MESSAGE Logback config file: /Users/edgarpena/Documents/SNHU/CS-305/Module 7/ssl-server_student/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.1.0.20221015-0744.xml
+
+!ENTRY org.eclipse.jface 2 0 2025-06-27 20:52:11.833
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2025-06-27 20:52:11.833
+!MESSAGE A conflict occurred for COMMAND+SHIFT+T:
+Binding(COMMAND+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.jdt.ui.navigate.open.type"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(COMMAND+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.lsp4e.symbolinworkspace"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2025-06-27 20:52:11.833
+!MESSAGE A conflict occurred for ALT+COMMAND+R:
+Binding(ALT+COMMAND+R,
+	ParameterizedCommand(Command(org.eclipse.ui.edit.rename,Rename,
+		Rename the selected item,
+		Category(org.eclipse.ui.category.file,File,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.ui.edit.rename"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,cocoa,system)
+Binding(ALT+COMMAND+R,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.edit.text.java.rename.element,Rename - Refactoring ,
+		Rename the selected element,
+		Category(org.eclipse.jdt.ui.category.refactoring,Refactor - Java,Java Refactoring Actions,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.jdt.ui.edit.text.java.rename.element"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,cocoa,system)
+
+!ENTRY de.sebthom.eclipse.commons 1 0 2025-06-27 20:52:12.187
+!MESSAGE starting...
+
+!ENTRY de.sebthom.eclipse.previewer 1 0 2025-06-27 20:52:12.188
+!MESSAGE starting...
+
+!ENTRY de.sebthom.eclipse.previewer 1 0 2025-06-27 20:52:12.211
+!MESSAGE Initializing render cache folder [/var/folders/_q/p4ql8wms3q1f7551p8nrlrtw0000gn/T/de.sebthom.eclipse.previewer/render_cache_editors]...
+
+!ENTRY de.sebthom.eclipse.previewer 1 0 2025-06-27 20:52:12.213
+!MESSAGE Initializing render cache folder [/var/folders/_q/p4ql8wms3q1f7551p8nrlrtw0000gn/T/de.sebthom.eclipse.previewer/render_cache_files]...
+
+!ENTRY de.sebthom.eclipse.previewer.drawio 1 0 2025-06-27 20:52:12.229
+!MESSAGE starting...
+
+!ENTRY de.sebthom.eclipse.previewer.graphviz 1 0 2025-06-27 20:52:12.230
+!MESSAGE starting...
+
+!ENTRY de.sebthom.eclipse.previewer.markdown 1 0 2025-06-27 20:52:12.230
+!MESSAGE starting...
+
+!ENTRY de.sebthom.eclipse.previewer.mermaid 1 0 2025-06-27 20:52:12.231
+!MESSAGE starting...
+
+!ENTRY de.sebthom.eclipse.previewer.plantuml 1 0 2025-06-27 20:52:12.232
+!MESSAGE starting...
